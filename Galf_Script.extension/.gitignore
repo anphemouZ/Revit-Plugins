@@ -1,0 +1,19 @@
+# Python / bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Резервные копии и архивы
+*.bak
+_archive/
+
+# Бинарники и установщики
+*.exe
+
+# Локальный мусор IDE / AI-инструментов
+.kilo/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

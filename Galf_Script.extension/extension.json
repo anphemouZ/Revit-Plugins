@@ -1,0 +1,7 @@
+{
+    "type": "extension",
+    "name": "Galf_Script",
+    "url": "https://github.com/anphemouZ/Revit-Plugins",
+    "description": "Набор инструментов Galf Script для ЭОМ: трассы, короба, РК, кабельный журнал",
+    "author": "Антон Манаков"
+}
